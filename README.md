@@ -7,7 +7,7 @@ Built for the Full Stack Developer Internship assignment.
 
 ## Demo login
 
-- **URL:** _[(add your deployed link here after step 4 below)](https://matchmaker-mvp-two.vercel.app/login)_
+- **URL:** [matchmaker-mvp-two.vercel.app](https://matchmaker-mvp-two.vercel.app/login)
 - **Username:** `matchmaker`
 - **Password:** `tdc2026`
 
