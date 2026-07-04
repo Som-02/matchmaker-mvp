@@ -32,16 +32,6 @@ npm run dev
 The app works fully even without a Gemini key — it falls back to a deterministic,
 rule-based explanation generator so grading/demoing never breaks on a missing key.
 
-## Deploying (Vercel)
-
-1. Push this folder to a new GitHub repo.
-2. Import the repo in Vercel.
-3. In Vercel → Project → Settings → Environment Variables, add:
-   - `VITE_GEMINI_API_KEY` = your Gemini key
-4. Deploy. Vercel auto-detects the Vite build (`npm run build`, output `dist/`).
-
-**Never commit your real `.env` file or paste your API key anywhere public** — it's
-already excluded via `.gitignore`. Only `.env.example` (no real key) is tracked.
 
 ## Project structure
 
