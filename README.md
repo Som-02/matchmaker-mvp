@@ -5,12 +5,15 @@ get gender-specific AI-scored match suggestions, and log notes from calls/meetin
 
 Built for the Full Stack Developer Internship assignment.
 
-## Demo login
+## Live hosted link
 
 - **URL:** [matchmaker-mvp-two.vercel.app](https://matchmaker-mvp-two.vercel.app)
+
+## Sample login credentials
+
 - **Username:** `matchmaker`
 - **Password:** `tdc2026`
-
+  
 ## Tech stack
 
 - **Frontend:** React 19 + Vite, React Router — no backend needed for this MVP;
